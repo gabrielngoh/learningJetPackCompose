@@ -63,7 +63,7 @@ val GabyAppTypography = Typography(
 
     labelLarge = TextStyle(
         fontFamily = Lato,
-        fontSize = 19.sp,
+        fontSize = 17.sp,
         fontWeight = FontWeight.Bold,
         lineHeight = 16.sp,
         letterSpacing = 0.5.sp,
